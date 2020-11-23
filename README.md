@@ -2,4 +2,5 @@
 
 ## Basic Commands 
 
-- set-up a remote repository 
+- set-up a remote repository
+- Making some changes
